@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337357862033",
+    "project_id": "burgercrown-39114",
+    "storage_bucket": "burgercrown-39114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337357862033:android:bc279aa7d417d6325e3b30",
+        "android_client_info": {
+          "package_name": "com.example.burger_crown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSdqU9YSzZtvInPEDqabKId2KnkjmRPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
